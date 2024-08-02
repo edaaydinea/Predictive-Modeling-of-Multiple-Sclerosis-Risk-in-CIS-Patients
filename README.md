@@ -1,1 +1,1 @@
-# Multiple Sclerosis Lesion Segmentation from Brain Magnetic Resonance Images via Fully Convolutional Neural Network
+# Predictive Modeling of Multiple Sclerosis Risk in CIS Patients
